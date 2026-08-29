@@ -1,11 +1,11 @@
-🏨 Hotel Data Analysis
-📌 About the Project
+# 🏨 Hotel Data Analysis
+# 📌 About the Project
 
 Hotel Data Analysis is a data analytics project created to explore and analyze hotel booking data using Python and popular data analysis libraries.
 
 The project focuses on data cleaning, exploratory data analysis (EDA), date-wise analysis, district-wise booking analysis, and check-in/check-out time analysis to extract meaningful insights from hotel data.
 
-🎯 Objectives
+# 🎯 Objectives
 
 The main objectives of this project are:
 
@@ -49,7 +49,7 @@ Separated and analyzed hotel booking information according to different district
 
 Calculated average check-in and check-out times to understand customer arrival and departure behavior.
 
-📊 Exploratory Data Analysis
+# 📊 Exploratory Data Analysis
 
 Performed EDA to understand:
 
